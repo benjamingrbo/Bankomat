@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-
+//UI Klasa
 public class Bankomat {
     private Scanner scanner;
     private Racun racun;
